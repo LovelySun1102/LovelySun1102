@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LovelySun1102
-- 👀 I’m interested in c++,web,java
-- 🌱 I’m currently learning reverse
+- 👀 I’m interested in c++,web,java,kotlin,python
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me?
 - Skype:live:.cid.e421cf6b36171184
