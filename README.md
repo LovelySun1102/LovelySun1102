@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me?
-- Skype:live:.cid.e421cf6b36171184
+- Skype:live:.live:.cid.df4bb33972f87fac
 - ⚡ Fun fact: ...
 
 <!---
