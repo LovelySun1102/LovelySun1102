@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me?
 - Skype:live:.live:.cid.df4bb33972f87fac
+- Email: dev634962@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
